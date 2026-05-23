@@ -17,7 +17,7 @@ moransi.py				Ruimtelijke autocorrelatietest
 wetgeving_test.py			Controle van het naleven van de geluidsnorm
 
 CORRELATIE & REGRESSIE
-correllatie.py				Correlatietest
+correlatie.py				Correlatietest
 regressie_model1.py			Regressieanalyse - Model 1: Geluidsmetrieken
 regressie_model2.py			Regressieanalyse - Model 2: Ruimtelijke factoren
 regressie_model3.py			Regressieanalyse - Model 3: Volledig model
