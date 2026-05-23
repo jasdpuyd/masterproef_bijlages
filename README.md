@@ -24,7 +24,7 @@ regressie_model3.py			Regressieanalyse - Model 3: Volledig model
 PCA_regressie.py			PCA-regressie
 
 STANCE DETECTION
-stance_claude.py			Prompt gebruikt voor stance detection via Claude Sonnet 4
-stance_openai.py			Prompt gebruikt voor stance detection via GPT-4.1-mini
-stance_mistral.py			Prompt gebruikt voor stance detection via Mistral-Large-2411
+prompt_SD_claude.py			Prompt gebruikt voor stance detection via Claude Sonnet 4
+prompt_SD_gpt.py			Prompt gebruikt voor stance detection via GPT-4.1-mini
+prompt_SD_mistral.py			Prompt gebruikt voor stance detection via Mistral-Large-2411
 
