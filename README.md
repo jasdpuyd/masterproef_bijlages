@@ -1,7 +1,7 @@
 VERDUIDELIJKING VAN SCRIPTS
 
 VERWERKING GELUIDSDATA
-aggregatie_tijd.py			Aggregatie van geluidsdata per minuut, per 5 minuten en per 10 minuten	
+aggregatie_tijd.py			Aggregatie van geluidsdata per minuut, per 5 minuten en per 10 minuten
 aggregatie_festivalblokken.py		Aggregatie van geluidsdata per festivalblok
 wav_conversie_dBA.ipynb			Omzetting van WAV-data naar dBA, via A-weging en kalibratie-offset
 verlopen.py				Genereren van grafieken met dBA-verloop per meter
